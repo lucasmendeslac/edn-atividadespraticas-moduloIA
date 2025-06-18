@@ -8,7 +8,6 @@ print("Hello, world!")
 # Atividade 2
 numero1 = 12
 numero2 = 14
-
 print(f"Resultado: {numero1 + numero2}")
 
 
@@ -32,14 +31,12 @@ print(f"Nome do produto: {nome_produto} \n"
 
 
 # Atividade 5
-A = int(input())
-B = int(input())
-C = int(input())
-D = int(input())
+A = int(input("Digite o valor de A: "))
+B = int(input("Digite o valor de B: "))
+C = int(input("Digite o valor de C: "))
+D = int(input("Digite o valor de D: "))
 diferenca = A  * B - C * D 
 print(f"DIFERENCA = {diferenca}")
-
-
 
 
 
